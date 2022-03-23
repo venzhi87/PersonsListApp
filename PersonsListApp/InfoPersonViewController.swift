@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  InfoPersonViewController.swift
 //  PersonsListApp
 //
 //  Created by Pavel Kuzovlev on 23.03.2022.
@@ -7,13 +7,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class InfoPersonViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+
     }
 
 
 }
-
